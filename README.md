@@ -60,7 +60,7 @@ The system has been tested against every word it is possible for Wordle to set a
 
 This is also shown in the graph below. 
 
-![Bar chart showing the number of words guessed for each number of guesses, for each system](https://imgur.com/a/CL0dapi)
+![Bar chart showing the number of words guessed for each number of guesses, for each system](https://i.imgur.com/RyuKPnB.png)
 
 System 1 was designed to sacrifice guesses 1 and 2 in order to greatly increase the chance of getting words on guesses 3 or 4. System 2 is simpler, but on hard mode, fails less often, thus the options are provided to use either.
 
