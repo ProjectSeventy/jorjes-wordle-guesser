@@ -22,6 +22,8 @@ The system is actually three systems. At the top of the file are two flags - `IN
 ### Results
 The system has been tested against every word it is possible for Wordle to set as the goal, at the time of writing. The tables below show how many words are guessed for each number of guesses, and the cumulative percentage.
 
+Note: The word list has since been updated to use the NYT word list. These test results, however, reflect the original Wordle word list.
+
 ##### System 1 (Normal) -- Default
 ##### (`INFORMATION_GAIN = True`, `HARD_MODE = False`)
 | No. of Guesses | Frequency | Cumulative %age |
@@ -77,7 +79,7 @@ Finally, as the first guess will always be the same, it is pre-calculated to be 
 
 | Starting Word | System |
 | --- | --- |
-| System 1 (Normal) | `soare` |
+| System 1 (Normal) | `stare` |
 | System 1 (Hard) | `raile` |
 | System 2 | `slate` |
 
